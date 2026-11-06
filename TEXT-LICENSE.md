@@ -4,7 +4,7 @@
 
 These terms apply to the text of the Source-Available Noncommercial License ("SANL"), Version 2.0, in the file LICENSE.md of this repository. They do not apply to the software of any project that uses SANL. That software is governed by its own Licensor and by SANL itself.
 
-The text is not dedicated to the public domain. Copyright in it belongs to A Simple Block (GitHub account SimpleBlockDev). The author permits the following, free of charge and without asking for permission:
+The text is not dedicated to the public domain. Copyright in it belongs to A Simple Block (GitHub account simpleblockdev). The author permits the following, free of charge and without asking for permission:
 
 1. to read, copy, and distribute the text unchanged;
 2. to use the unchanged text as the license of your own project, filling in only the placeholders in square brackets as Section 10.7 of SANL allows;
@@ -20,7 +20,7 @@ If these terms and Section 10.7 of SANL differ, Section 10.7 prevails. Version 1
 
 Эти условия относятся к тексту Source-Available Noncommercial License («SANL»), версия 2.0, в файле LICENSE.md этого репозитория. Они не относятся к программному обеспечению проектов, которые используют SANL. Это обеспечение регулируется его лицензиаром и самой SANL.
 
-Текст не передан в общественное достояние. Авторские права на него принадлежат A Simple Block (аккаунт GitHub SimpleBlockDev). Автор разрешает бесплатно и без запроса разрешения:
+Текст не передан в общественное достояние. Авторские права на него принадлежат A Simple Block (аккаунт GitHub simpleblockdev). Автор разрешает бесплатно и без запроса разрешения:
 
 1. читать, копировать и распространять текст без изменений;
 2. использовать неизменённый текст как лицензию своего проекта, заполняя только поля в квадратных скобках, как это допускает раздел 10.7 SANL;
