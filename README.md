@@ -18,7 +18,7 @@ SANL exists to keep a project free for the community and to prevent that free wo
 
 ## 3. Applying SANL to a project
 
-1. Download the unchanged text of the chosen version and save it as LICENSE.md in the root of your project: `https://raw.githubusercontent.com/SimpleBlockDev/Source-Available-Noncommercial-License/2.0/LICENSE.md`. Use the address with the version tag, so that the text you receive is exactly that version.
+1. Download the unchanged text of the chosen version and save it as LICENSE.md in the root of your project: `https://raw.githubusercontent.com/simpleblockdev/Source-Available-Noncommercial-License/2.0/LICENSE.md`. Use the address with the version tag, so that the text you receive is exactly that version.
 2. Replace only the placeholders: `[PROJECT]`, `[AUTHOR]`, `[YEAR]`, `[REPO_URL]`, `[CONTACT]`.
 3. Create your own EXCLUDED.md and LICENSED.md next to it, starting from the empty templates in this repository. Each author keeps these lists for their own project alone: this repository keeps no list and no entry here applies to any project. EXCLUDED.md lists the parties to whom you grant no license. LICENSED.md lists the parties to whom you give permission in advance, with its scope and term.
 4. Put the notice from the Appendix of SANL at the top of every source file.
